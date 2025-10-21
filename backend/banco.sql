@@ -1,5 +1,5 @@
-CREATE DATABASE db_cliente;
-USE db_cliente;
+CREATE DATABASE db_clientes;
+USE db_clientes;
 
 CREATE TABLE tb_pessoas (
   id_pessoa INT PRIMARY KEY,
